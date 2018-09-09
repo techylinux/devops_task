@@ -9,5 +9,5 @@ Prerequisites:
 ############################ Monitoring linux system for its processes ################
 As script is already packed in this repository.Put the script in crontab to fetch the details every 15 minutes as below:
 */15 * * * * ./monitoring.sh > output.csv
-Above cmd will fetch the detail and genrate the output in output.csv file 
+Above cmd will fetch the detail and generate the output in output.csv file 
 
